@@ -22,4 +22,4 @@ Discutir tópicos relacionados à Teoria da Computação que, embora não cobert
 [Luiz Reche](https://github.com/LPreche)
 
 # Referências
-[Michael Sipser - Introdução á Teoria da Computação]()
+[Michael Sipser - Introdução á Teoria da Computação](https://github.com/andreidanelli/computao-paralela/blob/main/documentos/introducao-a-teoria-da-computacao.pdf)
