@@ -11,9 +11,14 @@ Discutir tópicos relacionados à Teoria da Computação que, embora não cobert
 * **A classe NC**
 * **P-completude**
 
+# Imagem Computação Paralela
+<div align="center">
+  <img src="https://github.com/andreidanelli/computao-paralela/blob/main/imagem/computacao-paralela.png" width="80%"/>
+</div>
+
 # Integrantes
-[Andrei Danelli](https://github.com/andreidanelli/)
-[Guilherme Fusieger](https://github.com/fusieger)
+[Andrei Danelli](https://github.com/andreidanelli/) |
+[Guilherme Fusieger](https://github.com/fusieger) |
 [Luiz Reche](https://github.com/LPreche)
 
 # Referências
