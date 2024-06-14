@@ -24,4 +24,4 @@ Discutir tópicos relacionados à Teoria da Computação que, embora não cobert
 # Referências
 [Michael Sipser - Introdução á Teoria da Computação](https://github.com/andreidanelli/computao-paralela/blob/main/documentos/introducao-a-teoria-da-computacao.pdf)
   
-    Tópico 10.5, Página 424. (425)
+    Tópico 10.5, Página 424. (435)
