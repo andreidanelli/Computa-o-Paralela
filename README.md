@@ -23,5 +23,7 @@ Discutir tópicos relacionados à Teoria da Computação que, embora não cobert
 
 # Referências
 [Michael Sipser - Introdução á Teoria da Computação](https://github.com/andreidanelli/computao-paralela/blob/main/documentos/introducao-a-teoria-da-computacao.pdf)
+</br>
+[Wikipédia - Máquina de Acesso Randômico](https://pt.wikipedia.org/wiki/M%C3%A1quina_de_acesso_rand%C3%B4mico_paralelo)
   
     Tópico 10.5, Página 424. (435)
